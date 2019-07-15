@@ -4,6 +4,8 @@
 Read this guide to make your contributing more effectively.
 
 ## Table of contents
+* [Common information about creating pull requests](#Common-information-about-creating-pull-requests)  
+* [Making issue](#Making-issue)  
 
 ## Common information about creating pull requests
 If you creating pull request, make short description of what did you make.  
