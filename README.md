@@ -2,11 +2,11 @@
 Simple application for making screenshots 🖼 and copying it to clipboard
 
 ## Table of Contents
-* [Installation](readme.md#Installation)  
-* [Usage](readme.md#Usage)  
-* [Contributing](readme.md#Contributing)  
-* [Credits](readme.md#Credits)  
-* [License](readme.md#License)  
+* [Installation](#Installation)  
+* [Usage](#Usage)  
+* [Contributing](#Contributing)  
+* [Credits](#Credits)  
+* [License](#License)  
 
 ## Installation
 Clone (or download) this repository  
