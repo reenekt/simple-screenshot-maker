@@ -7,6 +7,7 @@ Simple application for making screenshots 🖼 and copying it to clipboard
 * [Contributing](#Contributing)  
 * [Credits](#Credits)  
 * [License](#License)  
+* [TODO list](#TODO-list)  
 
 ## Installation
 Clone (or download) this repository  
@@ -27,3 +28,13 @@ Author: [reenekt](https://github.com/reenekt)
 
 ## License
 See [LICENSE](LICENSE) file for more information
+
+## TODO list
+### Common list
+* [ ] Pretty project structure (right now all is in one unnamed package)
+* [ ] Beauty tray icon (and main window icon)
+* [ ] Update main window: add link to github repository and other information
+* [ ] Add hotkeys to start making screenshot
+### Epic todo list
+* [ ] Rewrite from Java to Kotlin
+* [ ] Make autoupdate features 🙌
