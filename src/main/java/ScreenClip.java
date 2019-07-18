@@ -1,4 +1,3 @@
-import javax.swing.*;
 import java.awt.*;
 
 public class ScreenClip {
@@ -15,7 +14,7 @@ public class ScreenClip {
         // point, including points  inside textboxes.
         frame.getRootPane().putClientProperty("apple.awt.draggableWindowBackground", false);
         frame.setSize(width, height);
-        frame.getContentPane().setLayout(new java.awt.BorderLayout());
+        frame.getContentPane().setLayout(new BorderLayout());
         frame.setLocationRelativeTo(null);
 
         ScreenshotArea screenshotArea = new ScreenshotArea();
