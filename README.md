@@ -15,6 +15,8 @@ Clone (or download) this repository
 git clone https://github.com/reenekt/simple-screenshot-maker.git
 ```
 Then build project
+* Using Intellij IDEA -> Maven -> package
+* _TODO: build using Maven CLI_
 
 ## Usage
 After running built programm (`.jar` file) you can see tray icon.  
